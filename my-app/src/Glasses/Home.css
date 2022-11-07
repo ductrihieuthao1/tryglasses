@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  padding: 30px;
+  background-color: antiquewhite;
+}
+.motherModel {
+    position: relative;
+}
+.glasses {
+    position: absolute;
+    top: 235px;
+    left: 635px;
+    width: 245px;
+}
+.container img {
+    width: 250px;
+    padding-right: 60px;
+}
